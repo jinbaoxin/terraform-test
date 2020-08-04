@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "web_server_rg" {
-    feature {}
+    features {}
     name = "aaa"
     location = "canadacentral"
 }
